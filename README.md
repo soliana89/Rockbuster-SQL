@@ -1,2 +1,2 @@
 # Rockbuster-SQL
-Analyze the data of the movie rental company to launch new online video service. This project is part of carrier foundry data analytics course
+ Rockbuster stelath is a movie rental company. this analysis help the company to launch new online video service and make the company competetive by answering any ad- hoc buesness questions. This project is part of carrier foundry data analytics course
